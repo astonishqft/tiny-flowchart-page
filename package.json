@@ -14,7 +14,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@tiny-flowchart/editor": "^1.0.10",
+    "@tiny-flowchart/editor": "latest",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
